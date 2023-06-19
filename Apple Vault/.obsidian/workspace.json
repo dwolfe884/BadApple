@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "ba2a87df188b41a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d76b803592c346d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4acb7e6a8dd39a88",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "testing/apples.canvas",
+                "viewState": {
+                  "x": 3288.4253172246936,
+                  "y": 2141.633247047493,
+                  "zoom": -2.999999999999999
+                }
+              }
+            }
+          },
+          {
+            "id": "d361d2dc5395bd00",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "testing/Untitled.canvas",
+                "viewState": {
+                  "x": 479.2740470672189,
+                  "y": -153.96843753990163,
+                  "zoom": 1
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce5ada84d8903aeb",
+    "type": "split",
+    "children": [
+      {
+        "id": "77bcd8a5f835ffbc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e72711c24870ab96",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42539fda158e7bde",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6756d5da8e929a62",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c5d21119e082ad2",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e11be85810da0ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98f3f06de1e7a6d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "testing/apples.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c22dbc48f0aa65ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "testing/apples.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cecbbf300ebec6fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70c172483d1b8e02",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "testing/apples.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4acb7e6a8dd39a88",
+  "lastOpenFiles": [
+    "testing/Untitled.canvas",
+    "testing/Bad Apple Notes.md",
+    "testing/apples.canvas",
+    "Untitled.md"
+  ]
+}
